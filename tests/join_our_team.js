@@ -1,6 +1,6 @@
 const faker = require('faker');
 const name = faker.name.firstName() + faker.name.lastName();
-const email = 'test@decemberlabs.com';
+const email = 'test@********.com';
 const linkedIn = 'https://linkedin.com/in/testusername'
 const comment = faker.lorem.sentences(3);
 
